@@ -7,12 +7,6 @@
 		fill: #a7a7a7;
 		transition: fill 125ms cubic-bezier(.86, 0, .07, 1); /* Changed transition */
 	}
-	.OriginalColor:hover .BlueColor {
-		fill: #44C8F5;
-	}
-	.OriginalColor:hover .BlackColor {
-		fill: #000000;
-	}
 </style>
 <g class="OriginalColor">
 	<g>
